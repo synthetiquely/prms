@@ -1,7 +1,7 @@
 # prms
 A simple Promise implementation
 
-##Usage
+## Usage
 
 ```js
 let promise = new Prms((resolve, reject) => {
